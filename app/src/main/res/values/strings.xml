@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ItsOKAvatarPlayground</string>
+
+    <string name="button_change_caption">CHANGE</string>
 </resources>

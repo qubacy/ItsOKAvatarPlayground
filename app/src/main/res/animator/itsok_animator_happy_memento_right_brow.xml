@@ -6,13 +6,13 @@
     <objectAnimator
         android:duration="@integer/itsok_animation_thinking_duration"
         android:propertyName="translateY"
-        android:valueFrom="0"
-        android:valueTo="-3"/>
+        android:valueFrom="@integer/itsok_animation_happy_memento_right_brow_from_translationY"
+        android:valueTo="@integer/itsok_animation_happy_memento_right_brow_to_translationY"/>
 
     <objectAnimator
         android:duration="@integer/itsok_animation_thinking_duration"
         android:propertyName="rotation"
-        android:valueFrom="0"
-        android:valueTo="8"/>
+        android:valueFrom="@integer/itsok_animation_happy_memento_right_brow_from_degree"
+        android:valueTo="@integer/itsok_animation_happy_memento_right_brow_to_degree"/>
 
 </set>

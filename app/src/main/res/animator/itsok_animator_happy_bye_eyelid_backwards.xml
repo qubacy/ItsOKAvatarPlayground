@@ -6,13 +6,13 @@
     <objectAnimator
         android:duration="100"
         android:propertyName="fillAlpha"
-        android:valueFrom="@dimen/itsok_animation_happy_bye_eyelid_from_fillAlpha"
-        android:valueTo="@dimen/itsok_animation_happy_bye_eyelid_to_fillAlpha"/>
+        android:valueFrom="@dimen/itsok_animation_happy_bye_eyelid_to_fillAlpha"
+        android:valueTo="@dimen/itsok_animation_happy_bye_eyelid_from_fillAlpha"/>
 
     <objectAnimator
         android:duration="100"
         android:propertyName="strokeAlpha"
-        android:valueFrom="@dimen/itsok_animation_happy_bye_eyelid_from_strokeAlpha"
-        android:valueTo="@dimen/itsok_animation_happy_bye_eyelid_to_strokeAlpha"/>
+        android:valueFrom="@dimen/itsok_animation_happy_bye_eyelid_to_strokeAlpha"
+        android:valueTo="@dimen/itsok_animation_happy_bye_eyelid_from_strokeAlpha"/>
 
 </set>

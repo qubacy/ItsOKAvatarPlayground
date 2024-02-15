@@ -3,5 +3,5 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:duration="@integer/itsok_animation_wonder_duration"
     android:propertyName="rotation"
-    android:valueFrom="0"
-    android:valueTo="-8"/>
+    android:valueFrom="@integer/itsok_animation_wonder_brow_from_degree"
+    android:valueTo="@integer/itsok_animation_wonder_left_brow_to_degree"/>
