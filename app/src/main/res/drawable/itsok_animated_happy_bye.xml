@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/itsok">
+
+    <target
+        android:animation="@animator/itsok_animator_happy_memento_left_brow"
+        android:name="left_brow_wrapper"/>
+
+    <target
+        android:animation="@animator/itsok_animator_happy_memento_right_brow"
+        android:name="right_brow_wrapper"/>
+
+    <target
+        android:animation="@animator/itsok_animator_happy_bye_eyelid"
+        android:name="left_eyelid"/>
+
+    <target
+        android:animation="@animator/itsok_animator_happy_bye_eyelid"
+        android:name="right_eyelid"/>
+
+    <target
+        android:animation="@animator/itsok_animator_happy_bye_eyelid_wrapper"
+        android:name="left_eyelid_wrapper"/>
+
+    <target
+        android:animation="@animator/itsok_animator_happy_bye_eyelid_wrapper"
+        android:name="right_eyelid_wrapper"/>
+
+</animated-vector>
