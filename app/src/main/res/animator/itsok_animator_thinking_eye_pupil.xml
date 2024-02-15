@@ -20,7 +20,7 @@
         <objectAnimator
             android:propertyName="translateX"
             android:valueFrom="@integer/itsok_animation_thinking_eye_pupil_from_translationX_1"
-            android:valueTo="@integer/itsok_animation_thinking_eye_pupil_to_translationX_2"/>
+            android:valueTo="@integer/itsok_animation_thinking_eye_pupil_to_translationX_1"/>
 
         <objectAnimator
             android:propertyName="translateY"
