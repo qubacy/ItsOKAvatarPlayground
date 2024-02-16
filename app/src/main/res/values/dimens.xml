@@ -42,6 +42,23 @@
     <dimen name="itsok_animation_happy_memento_eye_pupil_to_scaleY">
         @dimen/itsok_animation_happy_memento_eye_pupil_to_scaleX</dimen>
 
+    <dimen name="itsok_animation_happy_bye_center_heart_wrapper_from_translateY">0</dimen>
+    <dimen name="itsok_animation_happy_bye_center_heart_wrapper_to_translateY">-30</dimen>
+    <dimen name="itsok_animation_happy_bye_left_heart_wrapper_from_translateX">0</dimen>
+    <dimen name="itsok_animation_happy_bye_left_heart_wrapper_to_translateX">-21.8</dimen>
+    <dimen name="itsok_animation_happy_bye_left_heart_wrapper_from_translateY">
+        @dimen/itsok_animation_happy_bye_center_heart_wrapper_from_translateY</dimen>
+    <dimen name="itsok_animation_happy_bye_left_heart_wrapper_to_translateY">
+        @dimen/itsok_animation_happy_bye_center_heart_wrapper_to_translateY</dimen>
+    <dimen name="itsok_animation_happy_bye_right_heart_wrapper_from_translateX">
+        @dimen/itsok_animation_happy_bye_left_heart_wrapper_from_translateX</dimen>
+    <dimen name="itsok_animation_happy_bye_right_heart_wrapper_to_translateX">21.8</dimen>
+    <dimen name="itsok_animation_happy_bye_right_heart_wrapper_from_translateY">
+        @dimen/itsok_animation_happy_bye_center_heart_wrapper_from_translateY</dimen>
+    <dimen name="itsok_animation_happy_bye_right_heart_wrapper_to_translateY">
+        @dimen/itsok_animation_happy_bye_center_heart_wrapper_to_translateY</dimen>
+    <dimen name="itsok_animation_happy_bye_heart_from_fillAlpha">0</dimen>
+    <dimen name="itsok_animation_happy_bye_heart_to_fillAlpha">1</dimen>
     <dimen name="itsok_animation_happy_bye_eyelid_from_fillAlpha">0</dimen>
     <dimen name="itsok_animation_happy_bye_eyelid_to_fillAlpha">1</dimen>
     <dimen name="itsok_animation_happy_bye_eyelid_from_strokeAlpha">0</dimen>
